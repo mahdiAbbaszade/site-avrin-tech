@@ -1,0 +1,6 @@
+F8F9FA      gray BG
+FFFFFF	    white BG
+202124      font black (title)
+1A73E8      blue
+FF002C      red
+57606F      font gray (text)
